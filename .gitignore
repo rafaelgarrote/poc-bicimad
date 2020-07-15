@@ -1,0 +1,17 @@
+### mergetool Meld
+*.orig
+
+# others
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/export
+/RUNNING_PID
+/tmp
+.scannerwork
+.hprof
+.log
